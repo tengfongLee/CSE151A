@@ -13,3 +13,7 @@ https://drive.google.com/drive/folders/1-FgLo4-60RSu90v8pcpO4wi5B3rW-qAM?dmr=1&e
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+
+
+You can run the project notebook directly in Google Colab here:  
+[Open Notebook in Colab](https://colab.research.google.com/drive/1oD1BPJjESRtBzKWiDDiOkHiTpC-dRAig?authuser=1#scrollTo=0G3Zu6dNsOuR)
