@@ -6,6 +6,9 @@ Dataset is stored on Google Drive:  (Since data is bigger than 100MB so I have t
 
 https://drive.google.com/drive/folders/1-FgLo4-60RSu90v8pcpO4wi5B3rW-qAM?dmr=1&ec=wgc-drive-globalnav-goto
 
+Here is the oringal source :
+https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam?resource=download&select=recommendations.csv
+
 ## Environment (Google Colab)
 
 1. Open the notebook in Google Colab.
