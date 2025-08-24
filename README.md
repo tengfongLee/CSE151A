@@ -25,4 +25,3 @@ In this case, I applied a log transform because some of the numeric features wer
 
 
 You can run the project notebook directly in Google Colab here:  
-[Open Notebook in Colab](https://colab.research.google.com/drive/1oD1BPJjESRtBzKWiDDiOkHiTpC-dRAig?authuser=1#scrollTo=0G3Zu6dNsOuR)
