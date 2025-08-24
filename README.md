@@ -9,9 +9,9 @@ https://drive.google.com/drive/folders/1-FgLo4-60RSu90v8pcpO4wi5B3rW-qAM?dmr=1&e
 Here is the oringal source :
 https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam?resource=download&select=recommendations.csv
 
-## Environment (Google Colab)
+## Environment Set Up (Google Colab)
 
-1. Open the notebook in Google Colab.
+1. Open the notebook in Google Colab. https://colab.google/
 2. Mount Drive:
    ```python
    from google.colab import drive
