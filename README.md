@@ -33,8 +33,8 @@ You can run the project notebook directly in Google Colab here:
 In this project, the goal was to predict whether a user would **recommend a game on Steam** based on review metadata and additional information from users and games datasets. Instead of using libraries like `sklearn`, we built a **Decision Tree Classifier from scratch** (CART with Gini impurity). The dataset was quite large, so a lot of effort went into preprocessing and memory management to make sure it could run smoothly on Google Colab.
 
 ---
-
-## Data Preprocessing (<h1 style="color:red;">⚠️ From Here is what I have added for MS3</h1>)
+<h1 style="color:red;">⚠️ From Here is what I have added for MS3</h1>
+## Data Preprocessing 
 
 ### 1. Cleaning and Typing
 
