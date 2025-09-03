@@ -318,7 +318,7 @@ One man team so no collaboration statement.
 
 
 You can view and run the notebook in Google Colab here:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JNGYVGPjeJp8qoHO8VKByoI2pmIp3FTP?authuser=1#scrollTo=VB5ntnwko_ke)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
 
