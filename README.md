@@ -233,6 +233,9 @@ In this milestone, I expanded my project beyond the Decision Tree model from MS3
 * **Train Accuracy:** 0.86
 * **Test Accuracy:** 0.78
 * **Confusion Matrix (Test Set):**
+
+
+
   ![Decision Tree Confusion Matrix](figures/decision_tree_confusion.png)
 
 ### Model 2: PCA + KMeans
@@ -245,8 +248,16 @@ In this milestone, I expanded my project beyond the Decision Tree model from MS3
   * n\_components=2, k=4 → Silhouette=0.414, ARI=0.042, NMI=0.032
   * n\_components=2, k=5 → Silhouette=0.416, ARI=0.038, NMI=0.029
 * **Metrics Table:**
+
+
+
   ![PCA+KMeans Metrics Table](figures/metrics_table.png)
+
+  
 * **Scatter Plot of PCA (n=2, k=4):**
+
+
+
   ![PCA Scatter Plot](figures/pca_scatter.png)
 
 ---
