@@ -124,7 +124,9 @@ This allowed the model to train without running out of RAM on Colab.
 
 
 
-<h1 style="color:red;">⚠️ From Here is Second Model(which also contains the contents of first model as comparison)-----------------MS4
+<h1 style="color:red;">⚠️ From Here is Second Model-----------------MS4
+
+(which also contains the contents of first model as comparison)
 
 ---
 
